@@ -15,8 +15,8 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 
 ### Links
 
-- Solution URL: [Click to view Solution](https://www.frontendmentor.io/solutions/contact-form-validation-using-jquery--ig42RHSZf)
-- Live Site URL: [Click to view Live Site](https://coded-by-mj.github.io/Front-end-Mentor-Challenge11/)
+- Solution URL: [Click to view Solution](https://www.frontendmentor.io/solutions/loopstudios-landing-page-using-css-grid-Q2EONNQZCb)
+- Live Site URL: [Click to view Live Site](https://coded-by-mj.github.io/Front-end-Mentor-Challenge12/)
 
 
 
